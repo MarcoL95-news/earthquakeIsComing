@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Verletzte',de,Impacts,#a89216,#87830f,2,0.0613120220275068
 'Erdbeben Hilfsgüter',de,Mitigation,#9e3215,#802d16,2,0.0592800755283864
 'Erdbeben Verwerfung',de,Causes,#679e2c,#7db344,1,0.0362434227745343
-'erdbebensicher',de,Mitigation,#9e3215,#802d16,1,0.03614268116647641
+'erdbebensicher',de,Mitigation,#9e3215,#802d16,1,0.0361426811664764
 'Erdbeben Rettungsarbeiten',de,Mitigation,#9e3215,#b55035,1,0.0266763136682596
 'Erdbeben Spenden',de,Mitigation,#9e3215,#802d16,1,0.0169169922351902
 'Erdbeben Trümmer',de,Impacts,#a89216,#a89216,1,0.015576368473682
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.0111986530176381
 'Erdbeben Aufräumarbeiten',de,Mitigation,#9e3215,#9e3215,1,0.001512380004098
 'Erdbeben Scherzone',de,Causes,#679e2c,#7db344,1,0.0003054937241234
-'Erdbeben Platten Tektonik',de,Causes,#679e2c,#477515,1,2.0765448887717453e-08
+'Erdbeben Platten Tektonik',de,Causes,#679e2c,#477515,1,1.7650631554559834e-08
