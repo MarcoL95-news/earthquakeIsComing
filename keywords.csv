@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Plattengrenze',de,Causes,#679e2c,#61b00c,1,0.1511124565954713
 'Erdbeben Überlebende',de,Mitigation,#9e3215,#9e3215,3,0.1072827268366011
 'Erdbeben Tote',de,Impacts,#a89216,#87830f,3,0.1068365054858984
-'schweres Erdbeben',de,Hazard,#4287f5,#638ed4,2,0.0868928592878738
+'schweres Erdbeben',de,Hazard,#4287f5,#638ed4,2,0.09108290266742
 'Erdbeben Rettungsarbeiten',de,Mitigation,#9e3215,#b55035,2,0.0767175157089297
 'starkes Erdbeben',de,Hazard,#4287f5,#638ed4,1,0.0721445466199921
 'Erdbeben Verletzte',de,Impacts,#a89216,#87830f,2,0.0613120220275068
