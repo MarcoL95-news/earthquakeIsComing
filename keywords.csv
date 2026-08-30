@@ -5,9 +5,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Epizentrum',de,Hazard,#4287f5,#3b4a63,3,0.2376675163851366
 'schweres Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.2174097965381327
 'Erdbeben Tote',de,Impacts,#a89216,#87830f,3,0.1700019863689005
-'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,2,0.1552255152370616
 'Erdbeben Spenden',de,Mitigation,#9e3215,#802d16,2,0.1362233193007543
 'Erdbeben verschüttet',de,Impacts,#a89216,#a89216,1,0.1338546294724232
+'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.13194174795150235
 'Erdbeben Überlebende',de,Mitigation,#9e3215,#9e3215,2,0.1065607494409647
 'Erdbeben Rettungsarbeiten',de,Mitigation,#9e3215,#b55035,1,0.0891069636354159
 'starkes Erdbeben',de,Hazard,#4287f5,#638ed4,1,0.0827580826152851
