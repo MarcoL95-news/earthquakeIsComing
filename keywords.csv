@@ -13,8 +13,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'starkes Erdbeben',de,Hazard,#4287f5,#638ed4,1,0.0827580826152851
 'Erdbeben Verletzte',de,Impacts,#a89216,#87830f,2,0.0613120220275068
 'Erdbeben Hilfsgüter',de,Mitigation,#9e3215,#802d16,1,0.06094760722835
-'erdbebensicher',de,Mitigation,#9e3215,#802d16,1,0.033273207312059926
 'Erdbeben Verwerfung',de,Causes,#679e2c,#7db344,1,0.0311069393583541
+'erdbebensicher',de,Mitigation,#9e3215,#802d16,1,0.02843224121525091
 'Erdbeben Trümmer',de,Impacts,#a89216,#a89216,2,0.0273686079267806
 'Erdbeben Aufräumarbeiten',de,Mitigation,#9e3215,#9e3215,1,0.0167355680034832
 'Erdbeben Plattengrenze',de,Causes,#679e2c,#61b00c,1,0.0158687645419113
