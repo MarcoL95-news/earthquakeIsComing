@@ -9,8 +9,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben verschüttet',de,Impacts,#a89216,#a89216,1,0.1338546294724232
 'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.1319417479515023
 'Erdbeben Rettungsarbeiten',de,Mitigation,#9e3215,#b55035,1,0.0891069636354159
-'Erdbeben Überlebende',de,Mitigation,#9e3215,#9e3215,2,0.086392330471097
 'starkes Erdbeben',de,Hazard,#4287f5,#638ed4,1,0.0827580826152851
+'Erdbeben Überlebende',de,Mitigation,#9e3215,#9e3215,2,0.07388402090043245
 'Erdbeben Verletzte',de,Impacts,#a89216,#87830f,2,0.0613120220275068
 'Erdbeben Hilfsgüter',de,Mitigation,#9e3215,#802d16,1,0.06094760722835
 'Erdbeben Verwerfung',de,Causes,#679e2c,#7db344,1,0.0311069393583541
