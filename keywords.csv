@@ -16,8 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Verwerfung',de,Causes,#679e2c,#7db344,1,0.0311069393583541
 'Erdbeben Trümmer',de,Impacts,#a89216,#a89216,1,0.0232635717377635
 'Erdbeben Aufräumarbeiten',de,Mitigation,#9e3215,#9e3215,1,0.0134790866325165
-'erdbebensicher',de,Mitigation,#9e3215,#802d16,1,0.0127859732029568
+'erdbebensicher',de,Mitigation,#9e3215,#802d16,1,0.010868077222513279
 'Erdbeben Plattengrenze',de,Causes,#679e2c,#61b00c,1,0.0063708104480488
 'Schwarmbeben',de,Hazard,#4287f5,#3b4a63,1,0.0045347827474127
-'Erdbeben Scherzone',de,Causes,#679e2c,#7db344,1,1.3930345289708613e-05
+'Erdbeben Scherzone',de,Causes,#679e2c,#7db344,1,1.3930345289708611e-05
 'Erdbeben Platten Tektonik',de,Causes,#679e2c,#477515,1,2.510656846883755e-09
