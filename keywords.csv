@@ -9,10 +9,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'starkes Erdbeben',de,Hazard,#4287f5,#638ed4,2,0.1075845301111119
 'Erdbeben Tote',de,Impacts,#a89216,#87830f,1,0.1052958035413009
 'Erdbeben Rettungskräfte',de,Mitigation,#9e3215,#d64118,1,0.0949713973689405
-'Erdbeben Rettungsarbeiten',de,Mitigation,#9e3215,#b55035,1,0.0685882862265879
 'Erdbeben Verletzte',de,Impacts,#a89216,#87830f,2,0.0613120220275068
 'Erdbeben Hilfsgüter',de,Mitigation,#9e3215,#802d16,1,0.06094760722835
-'Erdbeben Überlebende',de,Mitigation,#9e3215,#9e3215,1,0.05353148785056238
+'Erdbeben Rettungsarbeiten',de,Mitigation,#9e3215,#b55035,1,0.05830004329259971
+'Erdbeben Überlebende',de,Mitigation,#9e3215,#9e3215,1,0.0535314878505623
 'Erdbeben Verwerfung',de,Causes,#679e2c,#7db344,1,0.0311069393583541
 'Erdbeben Trümmer',de,Impacts,#a89216,#a89216,1,0.0232635717377635
 'Erdbeben Aufräumarbeiten',de,Mitigation,#9e3215,#9e3215,1,0.0134790866325165
