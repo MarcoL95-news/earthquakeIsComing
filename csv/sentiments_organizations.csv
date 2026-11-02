@@ -108,10 +108,10 @@ di…,di…,ORG,-1.1052631578947367,0.0,de,1.9
 FC Bayern München,FC Bayern München,ORG,0.15789473684210528,0.0,de,1.9
 Real Madrid,Real Madrid,ORG,0.5263157894736842,0.0,de,1.9
 Leipzig,Leipzig,ORG,-0.3684210526315789,0.0,de,1.9
-+++ Erdbeben,+++ Erdbeben,ORG,0.0,0.0,de,1.9
+USGS Japan,USGS Japan,ORG,0.7368421052631579,0.0,de,1.9
 Naturgewalten,Naturgewalten,ORG,-0.18421052631578946,0.2631578947368421,de,1.9
 Geodynam…,Geodynam…,ORG,0.0,0.0,de,1.9
-USGS Japan,USGS Japan,ORG,0.7368421052631579,0.0,de,1.9
++++ Erdbeben,+++ Erdbeben,ORG,0.0,0.0,de,1.9
 nationalen Instituts für Geophysik und V…,nationalen Instituts für Geophysik und V…,ORG,0.0,0.0,de,1.9
 dr…,dr…,ORG,0.0,0.0,de,1.9
 THW-Team,THW-Team,ORG,0.0,0.0,de,1.9
@@ -156,8 +156,8 @@ Zentrum Perus,Zentrum Perus,ORG,0.7368421052631579,0.0,de,1.9
 Deutschland,Deutschland,ORG,0.3684210526315789,0.0,de,1.9
 Landeserdbebendienstes,Landeserdbebendienstes,ORG,0.0,0.0,de,1.8
 LED,LED,ORG,0.0,0.0,de,1.8
-Tsunami Lissabon,Tsunami Lissabon,ORG,0.0,0.0,de,1.8
 örtl…,örtl…,ORG,-0.5555555555555556,0.2777777777777778,de,1.8
+Tsunami Lissabon,Tsunami Lissabon,ORG,0.0,0.0,de,1.8
 Hamas,Hamas,ORG,-0.34615384615384615,0.0,de,1.3000000000000003
 nan,nan,ORG,-0.7692307692307692,0.0,de,1.3
 Union Jens Spahn,Union Jens Spahn,ORG,0.0,0.0,de,1.1
@@ -170,13 +170,13 @@ Universität Istanbul,Universität Istanbul,ORG,0.0,0.0,de,1.0
 Fußball-Rekordmeister FC Bayern München,Fußball-Rekordmeister FC Bayern München,ORG,-1.0,0.0,de,1.0
 US-Erdbebenwarte USGS Japan,US-Erdbebenwarte USGS Japan,ORG,0.7,0.0,de,1.0
 Zentrum des Beben…,Zentrum des Beben…,ORG,-0.7,0.0,de,1.0
-sächsischen Landesamts,sächsischen Landesamts,ORG,0.0,0.0,de,1.0
-La…,La…,ORG,0.0,0.0,de,1.0
+Japan …,Japan …,ORG,0.0,0.0,de,1.0
 Landesamts für Umwelt…,Landesamts für Umwelt…,ORG,0.0,0.0,de,1.0
+sächsischen Landesamts,sächsischen Landesamts,ORG,0.0,0.0,de,1.0
 Parlament,Parlament,ORG,0.0,0.0,de,1.0
 Teheran,Teheran,ORG,0.0,0.0,de,1.0
 Erdbeben-Forschung,Erdbeben-Forschung,ORG,0.0,0.0,de,1.0
-Japan …,Japan …,ORG,0.0,0.0,de,1.0
+La…,La…,ORG,0.0,0.0,de,1.0
 Lan…,Lan…,ORG,0.0,0.0,de,1.0
 ABC …,ABC …,ORG,-1.0,0.0,de,1.0
 ETH Zürich,ETH Zürich,ORG,0.7,0.0,de,1.0
@@ -242,7 +242,7 @@ Entw…,Entw…,ORG,0.0,0.0,de,1.0
 Beri…,Beri…,ORG,0.0,0.0,de,1.0
 italienische Institut für Geophysik und Vulkanologie,italienische Institut für Geophysik und Vulkanologie,ORG,0.0,0.0,de,1.0
 N…,N…,ORG,0.7,0.0,de,1.0
-Gasför…,Gasför…,ORG,0.0,0.0,de,1.0
+"Landesamts für Bergbau,…","Landesamts für Bergbau,…",ORG,0.0,0.0,de,1.0
 Ges…,Ges…,ORG,0.0,0.0,de,1.0
 Katastrophenschutzbehörde AFAD,Katastrophenschutzbehörde AFAD,ORG,0.0,0.0,de,1.0
 "sächsische Landesamt für Umwelt, Landwi…","sächsische Landesamt für Umwelt, Landwi…",ORG,0.0,0.0,de,1.0
@@ -253,7 +253,7 @@ Harvard University,Harvard University,ORG,0.0,0.0,de,1.0
 Was Basketballschuhe,Was Basketballschuhe,ORG,0.0,0.0,de,1.0
 Bundesbank EU-Anleihen,Bundesbank EU-Anleihen,ORG,0.0,0.0,de,1.0
 Bosporus!,Bosporus!,ORG,0.0,0.0,de,1.0
-"Landesamts für Bergbau,…","Landesamts für Bergbau,…",ORG,0.0,0.0,de,1.0
+Gasför…,Gasför…,ORG,0.0,0.0,de,1.0
 Bombe Erdbeben,Bombe Erdbeben,ORG,0.0,0.0,de,1.0
 SPD-nahen Friedrich-Ebert-Stiftung,SPD-nahen Friedrich-Ebert-Stiftung,ORG,0.0,0.0,de,1.0
 Ibiza-Affäre,Ibiza-Affäre,ORG,0.0,0.0,de,1.0
@@ -697,8 +697,8 @@ Fry,Fry,ORG,0.0,0.0,de,1.0
 Helmholtz-Zentrum,Helmholtz-Zentrum,ORG,0.0,0.0,de,1.0
 Tsunami-Warnung für Insel Kasos,Tsunami-Warnung für Insel Kasos,ORG,0.7,0.0,de,1.0
 Tsunami-Angst!,Tsunami-Angst!,ORG,0.0,0.0,de,1.0
-aufges…,aufges…,ORG,0.0,0.0,de,1.0
 Anadol…,Anadol…,ORG,0.0,0.0,de,1.0
+aufges…,aufges…,ORG,0.0,0.0,de,1.0
 st…,st…,ORG,0.0,0.0,de,1.0
 italienischen Nationalinstituts,italienischen Nationalinstituts,ORG,0.0,0.0,de,1.0
 Geop…,Geop…,ORG,0.0,0.0,de,1.0
@@ -719,8 +719,8 @@ Erdbeben: Globale Auswirkung,Erdbeben: Globale Auswirkung,ORG,0.0,0.0,de,1.0
 "USGS
 ","USGS
 ",ORG,0.0,0.0,de,1.0
-Russisc…,Russisc…,ORG,0.0,0.0,de,1.0
 Gefa…,Gefa…,ORG,1.0,0.0,de,1.0
+Russisc…,Russisc…,ORG,0.0,0.0,de,1.0
 südös…,südös…,ORG,0.0,0.0,de,1.0
 EuGH,EuGH,ORG,0.0,0.0,de,1.0
 PTWC,PTWC,ORG,0.0,0.0,de,1.0
@@ -728,14 +728,14 @@ russische Ministerium für Katastrophenschutz,russische Ministerium für Katastr
 Pazifik +++,Pazifik +++,ORG,0.0,0.0,de,1.0
 US-Tsuna,US-Tsuna,ORG,-0.7,0.0,de,1.0
 Japan g,Japan g,ORG,0.7,0.0,de,1.0
-e…,e…,ORG,0.0,0.0,de,1.0
+Höchster Vulkan,Höchster Vulkan,ORG,0.0,0.0,de,1.0
 Epizent…,Epizent…,ORG,0.0,0.0,de,1.0
 yas,yas,ORG,0.0,0.0,de,1.0
 European Mediterranean Seismological Centre,European Mediterranean Seismological Centre,ORG,0.0,0.0,de,1.0
 Starke Erdbeben,Starke Erdbeben,ORG,0.7,0.0,de,1.0
 Kiew  ,Kiew  ,ORG,0.0,0.0,de,1.0
 Rückversicherer…,Rückversicherer…,ORG,0.0,0.0,de,1.0
-Höchster Vulkan,Höchster Vulkan,ORG,0.0,0.0,de,1.0
+e…,e…,ORG,0.0,0.0,de,1.0
 US-Behörde,US-Behörde,ORG,-0.7,0.0,de,1.0
 TASS,TASS,ORG,0.0,0.0,de,1.0
 AKWs,AKWs,ORG,0.0,0.0,de,1.0
