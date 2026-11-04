@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Trümmer',de,Impacts,#a89216,#a89216,1,0.0232635717377635
 'Erdbeben Aufräumarbeiten',de,Mitigation,#9e3215,#9e3215,1,0.0134790866325165
 'erdbebensicher',de,Mitigation,#9e3215,#802d16,1,0.0056732042356344
-'Erdbeben Plattengrenze',de,Causes,#679e2c,#61b00c,1,0.0047304232987151
-'Schwarmbeben',de,Hazard,#4287f5,#3b4a63,1,0.001710291116651085
+'Erdbeben Plattengrenze',de,Causes,#679e2c,#61b00c,1,0.004020859803907834
+'Schwarmbeben',de,Hazard,#4287f5,#3b4a63,1,0.001710291116651
 'Erdbeben Scherzone',de,Causes,#679e2c,#7db344,1,5.253822978502604e-06
 'Erdbeben Platten Tektonik',de,Causes,#679e2c,#477515,1,1.541857136092485e-09
