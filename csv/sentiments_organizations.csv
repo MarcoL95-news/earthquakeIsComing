@@ -103,7 +103,7 @@ Zahl …,Zahl …,ORG,0.0,0.0,de,1.9
 Ubisoft,Ubisoft,ORG,0.0,0.0,de,1.9
 Technol…,Technol…,ORG,-0.8947368421052632,0.0,de,1.9
 RTL,RTL,ORG,0.0,0.0,de,1.9
-Trümmerfeld Venezuela,Trümmerfeld Venezuela,ORG,0.3684210526315789,0.0,de,1.9
+Trümmerfeld Venezuela,Trümmerfeld Venezuela,ORG,0.3684210526315789,0.5263157894736842,de,1.9
 di…,di…,ORG,-1.1052631578947367,0.0,de,1.9
 FC Bayern München,FC Bayern München,ORG,0.15789473684210528,0.0,de,1.9
 Real Madrid,Real Madrid,ORG,0.5263157894736842,0.0,de,1.9
@@ -232,8 +232,8 @@ GFZ Helmholtz-Zentrums für Geoforschung im,GFZ Helmholtz-Zentrums für Geoforsc
 Ordu un…,Ordu un…,ORG,0.0,0.0,de,1.0
 Asahi Shimbun,Asahi Shimbun,ORG,0.0,0.0,de,1.0
 GFZ Helmholtz-Zentrums für Geoforschung in,GFZ Helmholtz-Zentrums für Geoforschung in,ORG,0.0,0.0,de,1.0
-TV,TV,ORG,-0.7,0.0,de,1.0
 Rückführungspläne,Rückführungspläne,ORG,0.7,0.0,de,1.0
+TV,TV,ORG,-0.7,0.0,de,1.0
 ASSOCIATED PRESS,ASSOCIATED PRESS,ORG,0.0,0.0,de,1.0
 Nordo…,Nordo…,ORG,0.0,0.0,de,1.0
 WWE-Schocker,WWE-Schocker,ORG,0.0,0.0,de,1.0
@@ -719,8 +719,8 @@ Erdbeben: Globale Auswirkung,Erdbeben: Globale Auswirkung,ORG,0.0,0.0,de,1.0
 "USGS
 ","USGS
 ",ORG,0.0,0.0,de,1.0
-Gefa…,Gefa…,ORG,1.0,0.0,de,1.0
 Russisc…,Russisc…,ORG,0.0,0.0,de,1.0
+Gefa…,Gefa…,ORG,1.0,0.0,de,1.0
 südös…,südös…,ORG,0.0,0.0,de,1.0
 EuGH,EuGH,ORG,0.0,0.0,de,1.0
 PTWC,PTWC,ORG,0.0,0.0,de,1.0
